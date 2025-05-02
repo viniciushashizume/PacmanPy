@@ -1,0 +1,3 @@
+WIDTH, HEIGHT = 448, 496
+FPS = 60
+BLACK = (0, 0, 0)
